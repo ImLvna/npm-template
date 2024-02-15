@@ -1,5 +1,5 @@
 {
-  "name": "lunatemplate",
+  "name": "@imlvna/lunatemplate",
   "description": "Starter template for luna's projects",
   "homepage": "https://github.com/imlvna/template",
   "main": "dist/index.js",
