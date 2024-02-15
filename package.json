@@ -3,6 +3,7 @@
   "description": "Starter template for luna's projects",
   "homepage": "https://github.com/imlvna/template",
   "main": "dist/index.js",
+  "version": "1.0.0",
   "engines": {
     "node": ">=21.5.0"
   },
